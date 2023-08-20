@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Style/Diffnes.qss</file>
+        <file>Icon/appicon.png</file>
+        <file>Images/scripthelp1.png</file>
+        <file>Images/scripthelp2.png</file>
+    </qresource>
+</RCC>
